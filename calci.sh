@@ -7,3 +7,6 @@ b=5;
 
 result_add=$(($a+$b))
 echo "addition: $result_add"
+
+result_sub=$(($a-$b))
+echo "substraction: $result_sub"
